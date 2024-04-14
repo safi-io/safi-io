@@ -1,7 +1,4 @@
-<h1 align="left">Hi 👋! My name is Safi and I'm a front-end developer from Pakistan</h1>
-
-###
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=7000&pause=1000&color=003CF7&random=false&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Safi+and+I'm+a+front-end+developer+from+Pakistan" alt="Typing SVG" /></a>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safi-thecoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=My%20Expertise" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=safi-thecoder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
