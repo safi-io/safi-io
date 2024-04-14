@@ -1,25 +1,5 @@
-<div style="text-align: center;">
-    <div style="display: inline-block;">
-        <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=118EF7&random=false&width=435&lines=Hi+%F0%9F%92%96%2C+I'm+Safi" /></p>
-        <h3 align="center">A passionate frontend developer from Pakistan</h3>
-        <ul>
-            <li>🌱 I’m currently learning ReactJS and DSA</li>
-            <li>💬 Ask me about JavaScript and C++</li>
-            <li>📫 How to reach me <a href="mailto:m.safi.ullah@outlook.com">m.safi.ullah@outlook.com</a></li>
-            <li>📄 Know about my experiences <a href="https://safi-thecoder.github.io/Portfolio/assets/RESUME.pdf">here</a></li>
-            <li>⚡ Fun fact: I can only sleep in my bedroom</li>
-        </ul>
-    </div>
-    <div style="display: inline-block;">
-        <h3 align="center">Connect with me:</h3>
-        <p align="center">
-            <a href="https://twitter.com/ranasafikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranasafikhan" height="30" width="40" /></a>
-            <a href="https://linkedin.com/in/m-safiullah-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-safiullah-khan" height="30" width="40" /></a>
-        </p>
-    </div>
-</div>
-
-
+<p align="center" style="display:inline-block;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=118EF7&random=false&width=435&lines=Hi+%F0%9F%92%96%2C+I'm+Safi"/></p>
+<h3 align="center" style="display:inline-block;">A passionate frontend developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **ReactJS and DSA**
 
