@@ -1,5 +1,5 @@
 <h1 align="center">Hi 💖, I'm Safi</h1>
-<h3 align="center">A passionate frontend developer from</h3> https://emojiguide.com/flags/flag-pakistan
+<h3 align="center">A passionate frontend developer from</h3> <img src= "https://emojiguide.com/flags/flag-pakistan/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safi-thecoder&label=Profile%20views&color=0e75b6&style=flat" alt="safi-thecoder" /> </p>
 
