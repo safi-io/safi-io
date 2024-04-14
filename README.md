@@ -1,7 +1,7 @@
 <h1 align="center">Hi 💖, I'm Safi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **ReactJS and DSA**
 
 - 👨‍💻 All of my projects are available at [safi-thecoder.github.io/Portfolio](safi-thecoder.github.io/Portfolio)
 
