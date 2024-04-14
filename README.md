@@ -1,5 +1,5 @@
-<h1 align="center" display="inline-block">Hi 💖, I'm Safi</h1>
-<h3 align="center" display="inline-block">A passionate frontend developer from Pakistan</h3>
+<h1 align="center" display="inline">Hi 💖, I'm Safi</h1>
+<h3 align="center" display="inline">A passionate frontend developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **ReactJS and DSA**
 
