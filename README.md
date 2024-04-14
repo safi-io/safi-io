@@ -1,17 +1,15 @@
 <h1 align="center">Hi 💖, I'm Safi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [https://daraz-clone-by-safi.netlify.app/](https://daraz-clone-by-safi.netlify.app/)
-
 - 🌱 I’m currently learning **React and DSA**
 
-- 👨‍💻 All of my projects are available at [https://safi-thecoder.github.io/Portfolio/](https://safi-thecoder.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [safi-thecoder.github.io/Portfolio](safi-thecoder.github.io/Portfolio)
 
 - 💬 Ask me about **JavaScript and C++**
 
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
-- 📄 Know about my experiences [https://safi-thecoder.github.io/Portfolio/assets/RESUME.pdf](https://safi-thecoder.github.io/Portfolio/assets/RESUME.pdf)
+- 📄 Know about my experiences [safi-thecoder.github.io/Portfolio/assets/RESUME.pdf](safi-thecoder.github.io/Portfolio/assets/RESUME.pdf)
 
 - ⚡ Fun fact **I can only sleep in my bedroom**
 
