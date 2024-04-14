@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I can only sleep in my bedroom**
 
-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safi-thecoder&show_icons=true&locale=en&layout=compact" alt="safi-thecoder" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safi-thecoder&show_icons=true&locale=en&layout=compact" alt="safi-thecoder" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
