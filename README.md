@@ -30,4 +30,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safi-thecoder&show_icons=true&locale=en&layout=compact" alt="safi-thecoder" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safi-thecoder&" alt="safi-thecoder" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=safi-thecoder&" alt="safi-thecoder" />
