@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Enhancing my JS Skills**
+- 🔭 I’m currently working on **enhancing my JS Skills**
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/jxUXY](https://shorturl.at/jxUXY)
 
-- ⚡ Fun fact **I am a big foodie.**
+- ⚡ Fun fact **that I am a big foodie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
