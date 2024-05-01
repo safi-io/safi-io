@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shorturl.at/suAT0](https://shorturl.at/suAT0)
 
-- 💬 Ask me about **C++, JavaScript**
+- 💬 Ask me about **C++ and JavaScript**
 
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
