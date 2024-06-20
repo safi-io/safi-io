@@ -9,15 +9,11 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://shorturl.at/suAT0](https://shorturl.at/suAT0)
-
 - 💬 Ask me about **C++ and JavaScript**
 
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
 - 📫 Contact Number **(+92) 328-7919711**
-
-- 📄 Know about my experiences [https://shorturl.at/jxUXY](https://shorturl.at/jxUXY)
 
 - ⚡ Fun fact **that I am a big foodie.**
 
