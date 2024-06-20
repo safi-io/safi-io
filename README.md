@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
-- 📫 <a href="https://drive.google.com/file/d/1i4UeZsrNLfFRjPaK4jWp2SRZfI1APaXk/view" target="_blank">CV</a>
+- 📫 Click to view my <a href="https://drive.google.com/file/d/1i4UeZsrNLfFRjPaK4jWp2SRZfI1APaXk/view" target="_blank">CV</a>
 
 - 📫 Contact Number **(+92) 328-7919711**
 
