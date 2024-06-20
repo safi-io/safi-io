@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
+- 📫 my CV:- <a href="https://drive.google.com/file/d/1i4UeZsrNLfFRjPaK4jWp2SRZfI1APaXk/view" target="_blank"></a>
+
 - 📫 Contact Number **(+92) 328-7919711**
 
 - ⚡ Fun fact **that I am a big foodie.**
