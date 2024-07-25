@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
-- 📫 Click to view my <a href="https://drive.google.com/file/d/1i4UeZsrNLfFRjPaK4jWp2SRZfI1APaXk/view" target="_blank">CV</a>
+- 📫 Click to download my <a href=""https://safikhan.me/safi-io.github.io/assets/M%20Safiullah%20Khan-DWwXWV5z.pdf target="_blank">CV</a>
 
 - 📫 Contact Number **(+92) 328-7919711**
 
