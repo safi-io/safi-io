@@ -1,6 +1,6 @@
 ![Header](newbanner.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Safiullah Khan</h1>
-<h3 align="center">A student learning Full-Stack Development</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
