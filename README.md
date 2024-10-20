@@ -5,15 +5,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **enhancing my JS Skills**
+- 🔭 I’m currently working on **enhancing my Core Computing Skills**
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **C++ and JavaScript**
+- 💬 Ask me about **Java and JavaScript**
 
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
-- 📫 Click to download my <a href="https://safikhan.me/safi-io.github.io/assets/M%20Safiullah%20Khan-DWwXWV5z.pdf" target="_blank">CV</a>
+- 📫 Click to download my <a href="https://drive.google.com/file/d/17dUl4ss582BO-6Q981iAurmMzg-USodc/view?usp=sharing" target="_blank">CV</a>
 
 - 📫 Contact Number **(+92) 328-7919711**
 
