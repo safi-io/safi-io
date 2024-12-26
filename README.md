@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **Core Programming, Data Structures, and Algorithms**
 - 👨‍💻 All of my projects are available at [Portfolio](https://safikhan.me)
+- 📫 Click to download my <a href="https://drive.google.com/file/d/17dUl4ss582BO-6Q981iAurmMzg-USodc/view?usp=sharing" target="_blank">CV</a>
 - 💬 Ask me about **Java, JavaScript, MERN Stack**
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
