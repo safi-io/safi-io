@@ -1,14 +1,12 @@
-![Header](newbanner.gif)
-![](https://komarev.com/ghpvc/?username=safi-io)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=safi-io" alt="Profile Views" />
+</div>
 
 <h1 align="center">Hi 👋, I'm M Safiullah Khan</h1>
-<h3 align="center"><sub>A dedicated Computer Science student building a strong foundation in core concepts and technologies.</sub></h3>
-
----
 
 - 🔭 I’m currently working on **enhancing my Core Programming Skills**
 
-- 🌱 I’m currently grinding **Data Structures and Algorithms**
+- 🌱 I’m also grinding **Data Structures and Algorithms**
 
 - 💬 Ask me about **Java and JavaScript**
 
@@ -21,9 +19,8 @@
 - ⚡ Fun fact **I am a big foodie**
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
   <a href="https://linkedin.com/in/safi-io" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
