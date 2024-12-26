@@ -14,6 +14,8 @@
 
 - 📫 Click to download my <a href="https://drive.google.com/file/d/17dUl4ss582BO-6Q981iAurmMzg-USodc/view?usp=sharing" target="_blank">CV</a>
 
+- 📫 View my <a href="https://safikhan.me" target="_blank">Portfolio</a>
+
 - 👋 Contact Number **(+92) 313-6360228**
 
 - ⚡ Fun fact **I am a big foodie**
