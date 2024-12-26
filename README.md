@@ -1,41 +1,38 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=safi-io" alt="Profile Views" />
-</div>
-
 <h1 align="center">Hi 👋, I'm M Safiullah Khan</h1>
 
-- 🔭 I’m currently working on **enhancing my Core Programming Skills**
+<div class="row" align="center">
+    <img  src="https://komarev.com/ghpvc/?username=safi-io&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="safi-io" />
+</div>
 
-- 🌱 I’m also grinding **Data Structures and Algorithms**
-
-- 💬 Ask me about **Java and JavaScript**
-
+- 🌱 I’m currently learning **Core Programming, Data Structures, and Algorithms**
+- 👨‍💻 All of my projects are available at [Portfolio](https://safikhan.me)
+- 💬 Ask me about **Java, JavaScript, MERN Stack**
 - 📫 How to reach me **m.safi.ullah@outlook.com**
 
-- 📫 Click to download my <a href="https://drive.google.com/file/d/17dUl4ss582BO-6Q981iAurmMzg-USodc/view?usp=sharing" target="_blank">CV</a>
+### Connect with me
 
-- 📫 View my <a href="https://safikhan.me" target="_blank">Portfolio</a>
+[<img align="left" alt="M Safiullah Khan | Website" target="blank" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="M Safiullah Khan | LeetCode" width="25px" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" />][leetcode]
+[<img align="left" alt="M Safiullah Khan | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 
-- 👋 Contact Number **(+92) 313-6360228**
+<br>
 
-- ⚡ Fun fact **I am a big foodie**
+### Languages and Tools
 
----
-<h3 align="center">Other Profiles</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/safi-io" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/safi-io" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mongodb,express,react,nodejs,tailwind,bootstrap,redux,c,cpp,java,postman,git,github,ubuntu,figma,vscode,idea,mysql&theme=light)]([https://safikhan.me])
+
+[website]:https://safikhan.me
+[mail]: mailto:m.safi.ullah@outlook.com
+[linkedin]: https://www.linkedin.com/in/safi-io/
+[leetcode]: https://www.leetcode.com/in/safi-io/
 
 ---
 
 <div align="center">
-  <h3>Top Languages</h3>
-  <a href="https://github.com/EthanJamesLew/github-readme-stats-academic">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-io&layout=donut" alt="Top Langs" />
-  </a>
+  <img align="left" src="https://leetcard.jacoblin.cool/safi-io" alt="safi-io" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=safi-io&" alt="safi-io" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safi-io&show_icons=true&locale=en&layout=compact" alt="safi-io" />
+</p>
