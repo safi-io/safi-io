@@ -1,13 +1,13 @@
 ![Header](newbanner.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Safiullah Khan</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h3 align="center">Trying to become a technology agnostic Software Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **enhancing my Core Computing Skills**
+- 🔭 I’m currently working on **enhancing my Core Programming Skills**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently grinding **Data Structures and Algorithms**
 
 - 💬 Ask me about **Java and JavaScript**
 
