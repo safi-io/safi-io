@@ -20,7 +20,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mongodb,express,react,nodejs,tailwind,bootstrap,redux,c,cpp,java,postman,git,github,ubuntu,figma,vscode,idea,mysql&theme=light)]([https://safikhan.me])
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,tailwind,bootstrap,redux,c,cpp,java,postman,git,github,ubuntu,figma,vscode,idea,mysql&theme=light)]([https://safikhan.me])
 
 [website]:https://safikhan.me
 [mail]: mailto:m.safi.ullah@outlook.com
