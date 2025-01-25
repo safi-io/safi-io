@@ -31,7 +31,7 @@
 
 <div align="center">
   <img align="left" src="https://leetcard.jacoblin.cool/safi-io" alt="safi-io" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=safi-io&" alt="safi-io" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=safi-io" alt="safi-io" />
 </div>
 
 <p align="center">
