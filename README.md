@@ -24,8 +24,8 @@
 
 [website]:https://safikhan.me
 [mail]: mailto:m.safi.ullah@outlook.com
-[linkedin]: https://www.linkedin.com/in/safi-io/
-[leetcode]: https://www.leetcode.com/in/safi-io/
+[linkedin]: https://www.linkedin.com/in/safi-io
+[leetcode]: https://www.leetcode.com/safi-io
 
 ---
 
