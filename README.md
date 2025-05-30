@@ -6,7 +6,7 @@
 
 Curious to see more? Dive into my [Portfolio] and explore the magic.
 
-- 🌱 I’m currently learning **Core Programming, Data Structures, Databases Systems and Algorithms**
+- 🌱 I’m currently learning **Core Programming, Data Structures, Database Systems and Algorithms**
 - 📫 Click to download my <a href="https://drive.google.com/file/d/1FjK_jeG2Qm41T-ZaZRhCbUAWYnT_mesc/view?usp=sharing">CV</a>
 - 💬 Ask me about **Java, JavaScript, MERN Stack**
 - 📫 How to reach me **m.safi.ullah@outlook.com**
