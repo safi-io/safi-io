@@ -4,9 +4,9 @@
     <img  src="https://komarev.com/ghpvc/?username=safi-io&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="safi-io" />
 </div>
 
-- Visit My Portfolio to see my world: [Portfolio]
-- 🌱 I’m currently learning **Core Programming, Data Structures, and Algorithms**
-- 👨‍💻 All of my projects are available at [Portfolio](https://safikhan.me)
+Curious to see more? Dive into my [Portfolio] and explore the magic.
+
+- 🌱 I’m currently learning **Core Programming, Data Structures, Databases Systems and Algorithms**
 - 📫 Click to download my <a href="https://drive.google.com/file/d/1FjK_jeG2Qm41T-ZaZRhCbUAWYnT_mesc/view?usp=sharing">CV</a>
 - 💬 Ask me about **Java, JavaScript, MERN Stack**
 - 📫 How to reach me **m.safi.ullah@outlook.com**
