@@ -4,6 +4,7 @@
     <img  src="https://komarev.com/ghpvc/?username=safi-io&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="safi-io" />
 </div>
 
+- Visit My Portfolio to see my world: [Portfolio]
 - 🌱 I’m currently learning **Core Programming, Data Structures, and Algorithms**
 - 👨‍💻 All of my projects are available at [Portfolio](https://safikhan.me)
 - 📫 Click to download my <a href="https://drive.google.com/file/d/1FjK_jeG2Qm41T-ZaZRhCbUAWYnT_mesc/view?usp=sharing">CV</a>
@@ -12,7 +13,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="M Safiullah Khan | Website" target="blank" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="M Safiullah Khan | Website" target="blank" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][Portfolio]
 [<img align="left" alt="M Safiullah Khan | LeetCode" width="25px" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" />][leetcode]
 [<img align="left" alt="M Safiullah Khan | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 
@@ -22,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,nodejs,tailwind,bootstrap,redux,c,cpp,java,python,postman,git,github,ubuntu,figma,vscode,idea,pycharm,mongodb,mysql,firebase&theme=dark)]([https://safikhan.me])
 
-[website]:https://safikhan.me
+[Portfolio]:https://safikhan.me
 [mail]: mailto:m.safi.ullah@outlook.com
 [linkedin]: https://www.linkedin.com/in/safi-io
 [leetcode]: https://www.leetcode.com/safi-io
