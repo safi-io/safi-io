@@ -23,7 +23,7 @@ Curious to see more? Dive into my [Portfolio] and explore the magic.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,nodejs,tailwind,bootstrap,redux,c,cpp,java,python,postman,git,github,ubuntu,figma,vscode,idea,pycharm,mongodb,mysql,firebase&theme=dark)]([https://safikhan.me])
 
-[Portfolio]:https://safikhan.me
+[Portfolio]:https://safi-io.netlify.app/
 [mail]: mailto:m.safi.ullah@outlook.com
 [linkedin]: https://www.linkedin.com/in/safi-io
 [leetcode]: https://www.leetcode.com/safi-io
