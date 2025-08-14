@@ -13,18 +13,20 @@
 
 ## ✨ About Me
 - 🌱 Building expertise in **Core Programming, Data Structures, Database Systems, and Algorithms**  
-- 🏗 Passionate about **system design, scalable architectures, and high-performance applications**  
+- 💬 Ask me about **Python, JavaScript, Data Structures & Algorithms, and System Design**  
 - ✍ **I write tech articles on [Hashnode](https://hashnode.com/@safi-io)**, but my strongest insights & networking are on **[LinkedIn](https://www.linkedin.com/in/safi-io)**  
 - 📂 Explore my **[Portfolio](https://safi-io.netlify.app/)** for projects & experiments  
-- 📜 View my **[CV](https://drive.google.com/file/d/139JXcoq3XXkv2LXEdZI1e7Qp0JD0UZXO/view?usp=sharing)**  
+- 📜 Grab my **[CV](https://drive.google.com/file/d/139JXcoq3XXkv2LXEdZI1e7Qp0JD0UZXO/view?usp=sharing)**  
 - 📫 Reach me at **m.safi.ullah@outlook.com**
 
 ## 🌐 Connect With Me
 [<img align="left" alt="Website" width="30px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://safi-io.netlify.app/)
 [<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/safi-io)
 [<img align="left" alt="Hashnode" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" />](https://hashnode.com/@safi-io)
-[<img align="left" alt="X (Twitter)" width="30px" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" />](https://x.com/ranasafikhan)  
-
+[<img align="left" alt="X (Twitter)" width="30px" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" />](https://x.com/ranasafikhan)
+[<img align="left" alt="LeetCode" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/safi-io/)
+[<img align="left" alt="GeeksforGeeks" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />](https://auth.geeksforgeeks.org/user/safi404/)
+  
 <br clear="left"/>
 
 ## 🛠️ Languages & Tools
@@ -32,18 +34,22 @@
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=safi-io&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=safi-io&theme=tokyonight" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=safi-io&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ## 🏆 Coding Profiles
-<div align="center">
-    LC:
-  <img src="https://leetcard.jacoblin.cool/safi-io" alt="safi-io" />
-</div>
-<div align="center">
-    GFG:
-  <a href="https://auth.geeksforgeeks.org/user/safi404/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=safi404" alt="GeeksforGeeks Profile" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>LeetCode</strong><br/>
+      <img src="https://leetcard.jacoblin.cool/safi-io?ext=heatmap" alt="LeetCode Heatmap" />
+    </td>
+    <td align="center">
+      <strong>GeeksforGeeks</strong><br/>
+      <a href="https://auth.geeksforgeeks.org/user/safi404/">
+        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=safi404" alt="GeeksforGeeks Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
