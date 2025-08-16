@@ -4,7 +4,8 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=1AF7DC&center=true&vCenter=true&width=720&lines=Technology-agnostic+Software+Engineer;Undergraduate+Computer+Science+Student;System+Design+Enthusiast;Builder+of+Scalable%2C+Reliable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=1AF7DC&center=true&vCenter=true&width=720&lines=Technology-agnostic+Software+Engineer;Undergraduate+Computer+Science+Student;System+Design+Enthusiast;Mentoring+Hundreds+of+CS+Students" alt="Typing SVG" />
+
 </h3>
 
 <div align="center">
