@@ -17,7 +17,7 @@
 - Ask me about **Python, JavaScript, Data Structures & Algorithms, and System Design**  
 - **I write tech articles on [Hashnode](https://hashnode.com/@safi-io)**, but my strongest insights & networking are on **[LinkedIn](https://www.linkedin.com/in/safi-io)**  
 - Explore my **[Portfolio](https://safi-io.netlify.app/)** for projects & experiments  
-- Grab my **[CV](https://drive.google.com/file/d/139JXcoq3XXkv2LXEdZI1e7Qp0JD0UZXO/view?usp=sharing)**  
+- Grab my **[CV](https://drive.google.com/file/d/1VbCqs3eleQjp2R0MrOHNWoS_d7sOW0_3/view?usp=sharing)**  
 - Reach me at **m.safi.ullah@outlook.com**
 
 ## Connect With Me
@@ -30,8 +30,9 @@
   
 <br clear="left"/>
 
-## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,mysql,redis,firebase,appwrite,bootstrap,tailwind,java,python,flask,c,cpp,git,github,linux,ubuntu,bash,vscode,idea,pycharm,figma,postman,vercel,netlify&theme=dark)](https://safi-io.netlify.app/)
+## 🧠 Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,django,python,nodejs,express,mongodb,postgres,mysql,redis,firebase,appwrite,vercel,netlify,linux,ubuntu,bash,git,github,html,css,js,react,bootstrap,tailwind,vscode,pycharm,figma,postman&theme=dark)](https://safi-io.netlify.app/)
+
 
 ## GitHub Stats & Activity
 <div align="center">
