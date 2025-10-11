@@ -31,7 +31,7 @@
 <br clear="left"/>
 
 ## 🧠 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python.fastapi,flask,django,nodejs,express,mongodb,postgres,mysql,redis,firebase,appwrite,vercel,netlify,linux,ubuntu,bash,git,github,html,css,js,react,bootstrap,tailwind,vscode,pycharm,figma,postman&theme=dark)](https://safi-io.netlify.app/)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,django,nodejs,express,mongodb,postgres,mysql,redis,firebase,appwrite,vercel,netlify,linux,ubuntu,bash,git,github,html,css,js,react,bootstrap,tailwind,vscode,pycharm,figma,postman&theme=dark)](https://safi-io.netlify.app/)
 
 
 ## GitHub Stats & Activity
