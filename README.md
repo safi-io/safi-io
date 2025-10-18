@@ -13,12 +13,12 @@
 </div>
 
 ## About Me
-- Building expertise in **Core Programming, Data Structures, Database Systems, and Algorithms**  
-- Ask me about **Python, JavaScript, Data Structures & Algorithms, and System Design**  
-- **I write tech articles on [Hashnode](https://hashnode.com/@safi-io)**, but my strongest insights & networking are on **[LinkedIn](https://www.linkedin.com/in/safi-io)**  
-- Explore my **[Portfolio](https://safi-io.netlify.app/)** for projects & experiments  
-- Grab my **[CV](https://drive.google.com/file/d/1VbCqs3eleQjp2R0MrOHNWoS_d7sOW0_3/view?usp=sharing)**  
-- Reach me at **m.safi.ullah@outlook.com**
+- Backend Engineer specializing in Python, System Design, and scalable backend systems.
+- Backed by expertise in Core Programming, Data Structures, Algorithms, and Database Systems.
+- I also write tech articles on [Hashnode](https://hashnode.com/@safi-io), but my strongest insights & networking are on [LinkedIn](https://www.linkedin.com/in/safi-io).  
+- Explore my [Portfolio](https://safi-io.netlify.app/) for projects & experiments.  
+- Grab my [CV](https://drive.google.com/file/d/1VbCqs3eleQjp2R0MrOHNWoS_d7sOW0_3/view?usp=sharing).  
+- Reach me at **m.safi.ullah@outlook.com**.
 
 ## Connect With Me
 [<img align="left" alt="Website" width="30px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://safi-io.netlify.app/)
@@ -31,7 +31,7 @@
 <br clear="left"/>
 
 ## 🧠 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,django,nodejs,express,mongodb,postgres,mysql,redis,firebase,appwrite,vercel,netlify,linux,ubuntu,bash,git,github,html,css,js,react,bootstrap,tailwind,vscode,pycharm,figma,postman&theme=dark)](https://safi-io.netlify.app/)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,django,js,nodejs,express,mongodb,postgres,mysql,redis,firebase,appwrite,linux,bash,git,github,postman&theme=dark)](https://safi-io.netlify.app/)
 
 
 ## GitHub Stats & Activity
