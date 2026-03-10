@@ -1,57 +1,18 @@
-<!-- Hero -->
-<h1 align="center" style="font-weight: 800; font-size: 2.7rem; letter-spacing: .5px;">
-  Muhammad Safiullah Khan
-</h1>
+### I identify as a Data Engineer.
+Let's Connect: m.safi.ullah@outlook.com
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=1AF7DC&center=true&vCenter=true&width=720&lines=Technology-agnostic+Software+Engineer;Undergraduate+Computer+Science+Student;System+Design+Enthusiast;Mentoring+Hundreds+of+CS+Students" alt="Typing SVG" />
+| Technical Area | Technologies |
+|---------------|-------------|
+| Languages | Python, JavaScript |
+| Data Engineering | Data Pipelines, ETL Workflows |
+| Frameworks & Libraries | FastAPI, Flask, React |
+| Databases | PostgreSQL, MongoDB, Redis |
+| Backend Systems | Celery, Nginx, WebSockets |
+| Infrastructure & DevOps | Git, Linux, Docker, CI/CD,<br>Cloud Deployments |
 
-</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=safi-io&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
-## About Me
-- Backend Engineer specializing in Python, System Design, and scalable backend systems.
-- Backed by expertise in Core Programming, Data Structures, Algorithms, and Database Systems.
-- I also write tech articles on [Hashnode](https://hashnode.com/@safi-io), but my strongest insights & networking are on [LinkedIn](https://www.linkedin.com/in/safi-io).  
-- Explore my [Portfolio](https://safi-io.netlify.app/) for projects & experiments.  
-- Grab my [CV](https://drive.google.com/file/d/1VbCqs3eleQjp2R0MrOHNWoS_d7sOW0_3/view?usp=sharing).  
-- Reach me at **m.safi.ullah@outlook.com**.
-
-## Connect With Me
-[<img align="left" alt="Website" width="30px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://safi-io.netlify.app/)
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/safi-io)
-[<img align="left" alt="Hashnode" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" />](https://hashnode.com/@safi-io)
-[<img align="left" alt="X (Twitter)" width="30px" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" />](https://x.com/ranasafikhan)
-[<img align="left" alt="LeetCode" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/safi-io/)
-[<img align="left" alt="GeeksforGeeks" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />](https://auth.geeksforgeeks.org/user/safi404/)
-  
-<br clear="left"/>
-
-## 🧠 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,django,js,nodejs,express,mongodb,postgres,mysql,redis,firebase,appwrite,linux,bash,git,github,postman&theme=dark)](https://safi-io.netlify.app/)
-
-
-## GitHub Stats & Activity
-<div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=safi-io&theme=tokyonight" alt="GitHub Streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=safi-io&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-## Coding Profiles
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>LeetCode</strong><br/>
-      <img src="https://leetcard.jacoblin.cool/safi-io?ext=heatmap" alt="LeetCode Heatmap" />
-    </td>
-    <td align="center">
-      <strong>GeeksforGeeks</strong><br/>
-      <a href="https://auth.geeksforgeeks.org/user/safi404/">
-        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=safi404" alt="GeeksforGeeks Profile" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Profiles | Links |
+|---------|------|
+| LinkedIn | https://www.linkedin.com/in/safi-io |
+| Portfolio | https://safi.codes |
+| Hashnode | https://hashnode.com/@safi-io |
+| LeetCode | https://leetcode.com/safi-io |
