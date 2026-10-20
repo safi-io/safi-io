@@ -2,4 +2,4 @@
 
 #### Data. Infrastructure. Scale
 
-#### Let's connect: m.safi.ullah@outlook.com or www.linkedin.com/in/safi-io
+#### Let's connect: safiullah.main@outlook.com or www.linkedin.com/in/safi-io
